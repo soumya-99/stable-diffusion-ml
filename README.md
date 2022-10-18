@@ -7,7 +7,6 @@ This is just a copy of the main Colab Project published in Hugging Face.
 
 # Outputs
 ___
-<video src="outputs/Monet-Giverny-ML.mp4" controls="controls" style="max-width: 730px;">
-</video>
-<video src="outputs/Stable_Diff_Eyes.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+![video](outputs/Stable_Diff_Eyes.mp4)
+![video](outputs/Monet-Giverny-ML.mp4)
