@@ -8,5 +8,10 @@ This is just a copy of the main Colab Project published in Hugging Face.
 # Outputs
 ___
 
-![video](outputs/Stable_Diff_Eyes.mp4)
-![video](outputs/Monet-Giverny-ML.mp4)
+
+https://user-images.githubusercontent.com/59480692/196898039-f10be270-c6fc-4319-94bb-ed17fa973fcb.mp4
+
+
+
+https://user-images.githubusercontent.com/59480692/196898212-1d09ff48-53f8-40d5-b6f4-11f19574639b.mp4
+
